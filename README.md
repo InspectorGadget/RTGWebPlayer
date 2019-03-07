@@ -28,7 +28,7 @@ Commands:
 <br>
 Done!
 
-If you get any permission errors regarding 'Permission Error' in storage folder, make sure you run `chmod -R 0755`
+If you get any permission errors regarding 'Permission Error' in storage folder, make sure you run `chmod -R 0755 *` in the ROOT Directory of the project.
 <br>
 <br>
 <u>If it still doesn't work, make an issue.</u>
